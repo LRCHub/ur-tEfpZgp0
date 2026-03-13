@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "TOKYO OWLS",
+  "base_artist": "futures",
+  "createdAt": "2026-03-13T15:09:32.416732Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TOKYO OWLS(feat. 夢句)",
+      "artist": "futures",
+      "has_synced": false,
+      "path": "select/pl_01_TOKYO_OWLS(feat._夢句)_futures.txt"
+    }
+  ]
+}
